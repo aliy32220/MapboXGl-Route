@@ -1,0 +1,58 @@
+{
+  "name": "loginform",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "@chakra-ui/core": "^0.8.0",
+    "@chakra-ui/icon": "^2.0.0",
+    "@chakra-ui/icons": "^1.1.1",
+    "@chakra-ui/system": "^1.8.3",
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
+    "@mapbox/mapbox-gl-geocoder": "^4.7.4",
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "@turf/turf": "^6.5.0",
+    "@types/react": "^17.0.37",
+    "emotion-theming": "^10.0.27",
+    "mapbox-gl": "^2.6.1",
+    "react": "^17.0.2",
+    "react-cool-onclickoutside": "^1.7.0",
+    "react-dom": "^17.0.2",
+    "react-geocode": "^0.2.3",
+    "react-google-autocomplete": "^2.6.1",
+    "react-google-places-autocomplete": "^3.3.2",
+    "react-hook-form": "^7.22.2",
+    "react-icons": "^4.3.1",
+    "react-places-autocomplete": "^7.3.0",
+    "react-scripts": "5.0.0",
+    "turf": "^3.0.14",
+    "web-vitals": "^2.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
